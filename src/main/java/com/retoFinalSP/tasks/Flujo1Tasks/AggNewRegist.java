@@ -19,7 +19,7 @@ public class AggNewRegist implements Task {
                 Enter.theValue("2500000").into(WebtablesDemoqa.INPUTSALARY),
                 Enter.theValue("Medellin").into(WebtablesDemoqa.INPUTDEPARTMENT),
                 Click.on(WebtablesDemoqa.BTNSUBMIT));
-        //ejemplo git
+
     }
 
     public static AggNewRegist aggNewRegist(){
